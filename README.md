@@ -22,6 +22,7 @@ How many neurons, layers, and activation functions did you select for your neura
 * I chose 17 and 3, because after running the model with a higher number of nodes, 17 and 3 had the least bias according to the graphs in the h3 file. 
 * The image "Deep-Learning_Layer_01.png" shows the bias with the lowest amount (17) for the first node
 * The image "Deep-Learning_Layer_02.png" shows the bias with the lowest amount (3) for the second node
+* Just one activation function was used, so that the data could be complied.
 
 Were you able to achieve the target model performance?
 * No
