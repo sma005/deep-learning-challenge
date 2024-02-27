@@ -34,3 +34,4 @@ Summary: Summarize the overall results of the deep learning model. Include a rec
 * A different model using scikit could possibly be used. It also offers different solutions that may be able to predict accuracy differently.
 
 Google Colab was able to import directly to GitHub, so copying it over to my local repository was not necessary.
+https://myhdf5.hdfgroup.org/ was used to be able to read the hd5 files and screenshots were grabbed so that I could print the graphs showing the nodes with the lowest amount of bias
