@@ -10,7 +10,7 @@ What variable(s) are the target(s) for your model?
 * The target is the "IS_SUCCESSFUL" column. "1" means the campaign was successful. "0" means not successful.
 
 What variable(s) are the features for your model?
-* All of the other data in this table besides the 
+* All of the other data in this table besides the target is categorical data that should be used (with the exception of the EIN, name, or target).
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
 * We didn't need the EIN or the name.
