@@ -4,7 +4,7 @@ This challenge's purpose is to take data points and see if the model can predict
 
 Results: Using bulleted lists and images to support your answers, address the following questions:
 
-Data Preprocessing
+**Data Preprocessing**
 
 What variable(s) are the target(s) for your model?
 * The target is the "IS_SUCCESSFUL" column. "1" means the campaign was successful. "0" means not successful.
@@ -16,7 +16,7 @@ What variable(s) should be removed from the input data because they are neither 
 * We didn't need the EIN or the name.
 
 
-Compiling, Training, and Evaluating the Model
+**Compiling, Training, and Evaluating the Model**
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 * I chose 17 and 3, because after running the model with a higher number of nodes, 17 and 3 had the least bias according to the graphs in the h3 file. 
