@@ -32,3 +32,5 @@ What steps did you take in your attempts to increase model performance?
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 * A different model using scikit could possibly be used. It also offers different solutions that may be able to predict accuracy differently.
+
+Google Colab was able to import directly to GitHub, so copying it over to my local repository was not necessary.
